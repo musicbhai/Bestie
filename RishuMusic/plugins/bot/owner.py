@@ -10,16 +10,16 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - Sɪʟᴇɴᴛʜʀᴀx
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Sɪʟᴇɴᴛʜʀᴀx
+│├ ᴛɢ ɴᴀᴍᴇ - Satyam Shiva 
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Aura
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @ABOUT_SILENTHRAX
-├┤~ @BESTIE_UNITE_CLUB
-├┤~ @silenthrex
+├┤~ @https://t.me/AuraVisual
+├┤~ @https://t.me/HeavenChatGroup
+├┤~ @Usesense
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @silenthrax
+│├OWNER│ @Usesense
 │├─────────────────╯
 └┴─────────────────⦿
 **
@@ -42,7 +42,7 @@ async def start(_, msg):
                 InlineKeyboardButton(" ＮＥＴＷＯＲＫ", url=f"https://t.me/AuraVisual"),
 ],
 [
-InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/RJ_92_MUSIC_BOT"),
+InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/LavanyaMusicRobot"),
 
         ]]
     
