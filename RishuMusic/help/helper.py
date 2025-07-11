@@ -33,7 +33,7 @@ class Helper(object):
 ❍ /ask ➠ ǫυєʀɪєs ᴛʜє ᴧɪ ϻσᴅєʟ ᴛσ ɢєᴛ ᴧ ʀєsᴘσηsє ᴛσ ʏσυʀ ǫυєsᴛɪση
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -47,7 +47,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ᴘʏʀσɢʀᴧϻ : ʀєᴛυʀη ᴛσᴘ 5 ʀєυsʟᴛs ```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
     HELP_03 = '''```
@@ -58,7 +58,7 @@ class Helper(object):
 
 ❍ /tts : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -68,7 +68,7 @@ class Helper(object):
 ❍ /info : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ υsєʀ.
 ❍ /github <υsєʀηᴧϻє> : ɢєᴛ ɪηғσʀϻᴧᴛɪση ᴧʙσυᴛ ᴧ ɢɪᴛʜυʙ υsєʀ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -81,7 +81,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font Silenthrx```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
     HELP_06 = '''```
@@ -89,7 +89,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /vctag ➠ ᴠσɪᴄє ᴄʜᴧᴛ ɪηᴠɪᴛє ᴛᴧɢ 
 ❍ /vcstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -128,7 +128,7 @@ class Helper(object):
 ❍ /image ➠ sєᴧʀᴄʜєs ғσʀ ᴧη ɪϻᴧɢє ʙᴧsєᴅ ση ᴧ ɢɪᴠєη ᴋєʏᴡσʀᴅ.
 ❍ /upscale ➠ ʀєᴘʟʏ ᴛσ ᴧη ɪϻᴧɢє ᴛσ υᴘsᴄᴧʟє ɪᴛ ᴧηᴅ ɪϻᴘʀσᴠє ɪᴛs ǫυᴧʟɪᴛʏ.
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -142,7 +142,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -152,7 +152,7 @@ class Helper(object):
 **❍ /packkang ➠ ᴄʀєᴧᴛєs ᴧ ᴘᴧᴄᴋ σғ sᴛɪᴄᴋєʀs ғʀσϻ ᴧ σᴛʜєʀ ᴘᴧᴄᴋ
 ❍ /stickerid ➠ ɢєᴛs ᴛʜє sᴛɪᴄᴋєʀ ɪᴅ σғ ᴧ sᴛɪᴄᴋєʀ
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -177,7 +177,7 @@ class Helper(object):
 ❍ /boobs [ᴄʜєᴄᴋ ʏσυʀ ʙσσʙɪєs sɪᴢє]
 ❍ /dick [ᴄʜєᴄᴋ ʏσυʀ ᴅɪᴄᴋ sɪᴢє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -189,7 +189,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -201,7 +201,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -230,7 +230,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
     HELP_15 = '''```
@@ -239,7 +239,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -256,7 +256,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-**❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+**❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -271,7 +271,7 @@ class Helper(object):
 ❍ /pinned ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ᴘɪηηєᴅ ϻєssᴧɢє ɪη ᴛʜє ɢʀσυᴘ
 ❍ /unpin ➠ υηᴘɪηs ᴛʜє ᴄυʀʀєηᴛʟʏ ᴘɪηηєᴅ ϻєssᴧɢє
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -281,7 +281,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -293,7 +293,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -304,7 +304,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -321,7 +321,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -332,7 +332,7 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
     HELP_23 = '''```
@@ -340,7 +340,7 @@ class Helper(object):
 
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
     HELP_24 = '''```
@@ -348,7 +348,7 @@ class Helper(object):
 
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -364,7 +364,7 @@ class Helper(object):
 
 ❍ /stack ➠ sєᴧʀᴄʜєs ғσʀ ᴘʀσɢʀᴧϻϻɪηɢ-ʀєʟᴧᴛєᴅ ɪηғσʀϻᴧᴛɪση ση sᴛᴧᴄᴋ σᴠєʀғʟσᴡ
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
 
 
@@ -375,7 +375,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) **
+❖ ϻᴧᴅє ʙʏ  ➠ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) **
 '''
     HELP_PROMOTION = '''
 **───────────────────────
@@ -397,34 +397,34 @@ class Helper(object):
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+
 ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє 
 ───────────────────────
-❍ ᴄσηᴛᴧᴄᴛ - [ 𝐀𝐔𝐑𝐀 𝐍ᴇᴛᴡᴏʀᴋ ](https://t.me/TheAuraNetwork)
-❍ ᴄσηᴛᴧᴄᴛ - [ʏᴧᴅᴜᴠᴧɴsʜɪ╿](https://t.me/Yadavperson)
+❍ ᴄσηᴛᴧᴄᴛ - [ 𝐀𝐔𝐑𝐀 𝐍ᴇᴛᴡᴏʀᴋ ](https://t.me/AuraVisual)
+❍ ᴄσηᴛᴧᴄᴛ - [ʏᴧᴅᴜᴠᴧɴsʜɪ╿](https://t.me/Usesense)
 ───────────────────────**
 '''
     HELP_ALLBOT = '''
 **───────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹[𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹[𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup)˼ ʙσᴛ sᴛᴧᴛυs │
 ───────────────────────
     ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ───────────────────────
 
-╭⎋ [𝐀Ʀ𝐀𝐃┣𝐥𝐀𝚴𝐀 𝐌𝐔𝗦𝐈𝐂](https://t.me/AradhnaMusicRobot) : ᴧʟɪᴠє 
+╭⎋ [𝐀Ʀ𝐀𝐃┣𝐥𝐀𝚴𝐀 𝐌𝐔𝗦𝐈𝐂](https://t.me/AradhanaMusicRobot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:38ϻ:50s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [Shreya Music](https://t.me/ShreyaMusicRobot) : ᴧʟɪᴠє 
+╭⎋ [NATKHAT MUSIC](https://t.me/NatkhatMusicBot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:53ϻ:29s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [Tojiiiii Music](https://t.me/TojiMusicRobot) : ᴧʟɪᴠє 
+╭⎋ [ʟᴀᴠᴀɴʏᴀ ᴍᴜꜱɪᴄ](https://t.me/LavanyaMusicRobot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:48ϻ:37s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ───────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/TheAuraNetwork)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ϻє](https://t.me/AuraVisual)
 ───────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 17 May 2025 
 ───────────────────────
-❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl) ˼
+❍ ᴘσᴡєʀєᴅ ʙʏ ⁚ ˹ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup) ˼
 ───────────────────────**
 '''
     HELP_ABOUT = '''
@@ -444,9 +444,9 @@ class Helper(object):
 ● ᴧηɪϻє ʙσᴛ ғυηᴄᴛɪσηᴧʟɪᴛʏ
 ● ᴧɪ ɪηᴛєɢʀᴧᴛɪση
 ───────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [𝐀𝐔𝐑𝐀](https://t.me/+sRMHl58lWolhMTdl)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ʏᴧᴅᴜᴠᴧɴsʜɪ╿](https://t.me/Yadavperson)
-❖ ʀєᴧʟ σᴡηєʀ ➥ [𝐀𝐔𝐑𝐀 𝐍ᴇᴛᴡᴏʀᴋ](https://t.me/TheAuraNetwork)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [𝐀𝐔𝐑𝐀](https://t.me/HeavenChatGroup)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ʏᴧᴅᴜᴠᴧɴsʜɪ╿](https://t.me/Usesense)
+❖ ʀєᴧʟ σᴡηєʀ ➥ [𝐀𝐔𝐑𝐀 𝐍ᴇᴛᴡᴏʀᴋ](https://t.me/AuraVisual)
 ❖ ʀєᴘσ ʟɪηᴋ ➥ [Aura Virtual Numbers](https://t.me/AuraNumbers)
 ───────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
