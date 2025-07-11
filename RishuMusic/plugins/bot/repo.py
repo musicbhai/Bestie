@@ -21,14 +21,14 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("✙ ᴀᴅᴅ ᴍᴇ ✙", url=f"https://t.me/{BESTIE_X_MUSIC_BOT}?startgroup=true")
+          InlineKeyboardButton("✙ ᴀᴅᴅ ᴍᴇ ✙", url=f"https://t.me/http://t.me/RadhikaMusicRobot?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• ʜᴇʟᴘ •", url="https://t.me/Silenthrax"),
-          InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/Silenthrax"),
+          InlineKeyboardButton("• ʜᴇʟᴘ •", url="https://t.me/Usesense"),
+          InlineKeyboardButton("• ᴏᴡɴᴇʀ •", url="https://t.me/AuraVisual"),
           ],
                [
-                InlineKeyboardButton("• ɴᴇᴛᴡᴏʀᴋ •", url=f"https://t.me/Silenthrex"),
+                InlineKeyboardButton("• ɴᴇᴛᴡᴏʀᴋ •", url=f"https://t.me/AuraVisual"),
 ],
 [
 InlineKeyboardButton("• ʀᴇᴘᴏ •", url=f"https://github.com"),
