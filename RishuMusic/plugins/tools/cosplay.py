@@ -7,10 +7,10 @@ from config import BOT_USERNAME
 
 SACHIN = [
     [
-        InlineKeyboardButton(text="✙ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✙", url=f"https://t.me/Shizuka_Music_Robot?startgroup=true"),
+        InlineKeyboardButton(text="✙ ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ ✙", url=f"https://t.me/ShizukaaMusicRobot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/TheAuraNetwork"),
+        InlineKeyboardButton(text="• sᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/AuraVisual"),
     ],
 ]
 
