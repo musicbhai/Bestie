@@ -10,16 +10,16 @@ start_txt = """
 **
 ┌┬─────────────────⦿
 │├─────────────────╮
-│├ ᴛɢ ɴᴀᴍᴇ - Satyam Shiva 
-│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Aura
+│├ ᴛɢ ɴᴀᴍᴇ - Aura 
+│├ ʀᴇᴀʟ ɴᴀᴍᴇ - Satyam Yadav 
 │├─────────────────╯
 ├┼─────────────────⦿
-├┤~ @https://t.me/AuraVisual
-├┤~ @https://t.me/HeavenChatGroup
+├┤~ @AuraVisual
+├┤~ @HeavenChatGroup
 ├┤~ @Usesense
 ├┼─────────────────⦿
 │├─────────────────╮
-│├OWNER│ @Usesense
+│├Satyam hu│ @Usesense
 │├─────────────────╯
 └┴─────────────────⦿
 **
