@@ -49,7 +49,7 @@ InlineKeyboardButton("ＯＦＦＩＣＩＡＬ ＢＯＴ", url=f"https://t.me/La
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://files.catbox.moe/qu0hhu.jpg",
+        photo="https://files.catbox.moe/d4z1dl.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
